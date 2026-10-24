@@ -66,3 +66,4 @@ Structure follows the Pickfords model: homepage → service hubs → area/countr
 - Every page: link to its hub, 2+ siblings, and /contact/ ("Get a free quote").
 - Every area page: house moves, office removals, parking-suspension guide.
 - Never use "man and van" as anchor text.
+| Document shredding | /removals/office/document-shredding/ (draft) | confidential shredding london |

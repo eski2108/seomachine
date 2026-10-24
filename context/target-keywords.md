@@ -19,14 +19,14 @@ Source: K1 keyword tracker (stats-board-data.json, 54 keywords). Rankings not ye
 | 2 | office relocation london | Commercial | /removals/office/ | live |
 | 2 | park royal office removals | Commercial | /areas-covered/park-royal-office-removals/ (draft) | draft |
 | 2 | it relocation london | Commercial | /removals/office/it-server-relocation/ (draft) | draft |
-| 3 | school relocation london | Commercial | /removals/office/school-relocations/ (draft) | draft |
-| 3 | retail store relocation london | Commercial | /removals/office/retail-relocations/ (draft) | draft |
-| 3 | clinic relocation london | Commercial | /removals/office/healthcare-clinic-relocations/ (draft) | draft |
+| 3 | school relocation london | Commercial | /removals/office/ (sector section) | confirmed, drafted |
+| 3 | retail store relocation london | Commercial | /removals/office/ (sector section) | confirmed, drafted |
+| 3 | clinic relocation london | Commercial | /removals/office/ (sector section) | confirmed, drafted |
 
 ## Packing / storage
 | P | Keyword | Intent | Target page | Status |
 |---|---|---|---|---|
-| 2 | business storage london | Commercial | /removals/storage-services/business-storage/ (draft) | draft |
+| 2 | business storage london | Commercial | /removals/storage-services/business-storage/ (draft) + section on /removals/office/ | confirmed, drafted |
 | 2 | packing services london | Commercial | /removals/packing-services/ | live |
 | 2 | removals and storage london | Commercial | /removals/storage-services/ | live |
 | 3 | export packing london | Commercial | /removals/packing-services/ | live |
@@ -134,4 +134,7 @@ Source: K1 keyword tracker (stats-board-data.json, 54 keywords). Rankings not ye
 - removals jobs / driver jobs: Recruitment intent, not customers
 - crate hire: Only if K1 confirms it hires plastic crates; draft folded into packing page
 
-Note: draft pages for school/retail/clinic, business storage and fine art need Dean's confirmation that K1 offers them.
+Note: school/retail/clinic/lab relocations and business storage confirmed by Dean 24 Oct 2026 (sections on /removals/office/, no duplicate pages). Fine art still unconfirmed.
+
+## Shredding (confirmed service)
+Target: /removals/office/document-shredding/ (draft). Primary: confidential shredding london. Secondary: document shredding london, shredding service london, secure shredding london, office shredding service, on site shredding london, paper shredding west london, confidential waste london.

@@ -17,7 +17,7 @@
 | Packing (as part of a move) | /removals/packing-services/ | Full or part packing, export packing for overseas moves |
 | Storage (as part of a move) | /removals/storage-services/ | Short or long-term storage between moves |
 | Piano removals | /removals/piano/ | Existing page; low priority |
-| Confidential document shredding | (no page yet; confirm with Dean before creating) | Secure shredding of business documents |
+| Confidential document shredding | /removals/office/document-shredding/ (draft) | Secure shredding of business documents |
 | Customer callbacks | /contact/ | "Request a callback" CTA |
 
 ## Benefits to stress
@@ -27,5 +27,10 @@
 - Parking suspensions arranged as part of the move
 - Floor, door and furniture protection
 
+## Confirmed by Dean (24 Oct 2026)
+- School relocations, all types of retail relocations, clinic and laboratory relocations: covered as sector sections on /removals/office/ (no separate pages).
+- Business and document storage: confirmed; covered on /removals/office/ section, linking to /removals/storage-services/.
+- Confidential document shredding: page approved at /removals/office/document-shredding/.
+
 ## Unconfirmed (do NOT write about until Dean confirms)
-School / retail / clinic relocations, IT relocation, business storage, Park Royal page, prime central London, fine art, car shipping.
+IT relocation, Park Royal page, prime central London, fine art, car shipping.
