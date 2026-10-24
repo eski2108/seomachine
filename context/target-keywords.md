@@ -1,375 +1,137 @@
-# Target Keywords & Topic Clusters
-
-This document organizes Castos's target keywords by topic cluster for strategic content planning and SEO optimization.
-
-## Instructions
-Fill in this template with your target keywords organized by topic cluster. Update regularly based on keyword research and content performance.
-
----
-
-## Topic Cluster Structure
-
-Each topic cluster should have:
-- **Pillar Keyword**: Main, high-volume keyword (typically competitive)
-- **Cluster Keywords**: 5-10 related keywords (subtopics)
-- **Long-Tail Keywords**: 10-15 specific, lower-volume phrases
-- **Search Intent**: What users want (informational, commercial, transactional)
-
----
-
-## Cluster 1: Podcast Hosting
-
-### Pillar Keyword
-- **Keyword**: podcast hosting
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Commercial
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL of main guide]
-
-### Cluster Keywords (Subtopics)
-1. **best podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL if exists, or "Not yet created"]
-
-2. **podcast hosting platform**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-3. **podcast hosting comparison**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-4. **free podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-5. **podcast hosting pricing**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-[Add 5-10 cluster keywords total]
-
-### Long-Tail Keywords
-- how to choose a podcast host
-- podcast hosting for beginners
-- podcast hosting with unlimited bandwidth
-- podcast hosting that includes a website
-- difference between podcast hosting and website hosting
-- what to look for in a podcast host
-- podcast hosting for multiple shows
-- [Add 10-15 long-tail variations]
-
-### Related Questions (People Also Ask)
-- What is podcast hosting?
-- Do I need podcast hosting?
-- How much does podcast hosting cost?
-- Can I host my podcast for free?
-- [Add questions from PAA boxes]
-
----
-
-## Cluster 2: Podcast Analytics
-
-### Pillar Keyword
-- **Keyword**: podcast analytics
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL or "To create"]
-
-### Cluster Keywords (Subtopics)
-1. **podcast metrics**
-2. **podcast download statistics**
-3. **podcast listener data**
-4. **podcast performance tracking**
-5. **podcast growth metrics**
-[Continue with 5-10 cluster keywords]
-
-### Long-Tail Keywords
-- how to track podcast analytics
-- understanding podcast download numbers
-- most important podcast metrics
-- how to measure podcast success
-- podcast analytics tools
-[Add 10-15 long-tail variations]
-
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 3: Podcast Growth
-
-### Pillar Keyword
-- **Keyword**: grow podcast audience
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
-
-### Cluster Keywords
-1. **podcast growth strategies**
-2. **increase podcast downloads**
-3. **podcast marketing**
-4. **podcast promotion**
-5. **podcast audience development**
-[Continue with cluster keywords]
-
-### Long-Tail Keywords
-- how to get more podcast listeners
-- promote your podcast free
-- grow podcast audience fast
-- podcast growth tips for beginners
-[Add long-tail variations]
-
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 4: Podcast Monetization
-
-### Pillar Keyword
-- **Keyword**: podcast monetization
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Commercial/Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
-
-### Cluster Keywords
-1. **how to monetize a podcast**
-2. **podcast advertising**
-3. **podcast sponsorships**
-4. **make money podcasting**
-5. **podcast revenue streams**
-[Continue]
-
-### Long-Tail Keywords
-[Add 10-15 variations]
-
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 5: Starting a Podcast
-
-### Pillar Keyword
-- **Keyword**: how to start a podcast
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
-
-### Cluster Keywords
-1. **podcast equipment**
-2. **podcast recording software**
-3. **podcast editing**
-4. **podcast launch checklist**
-5. **podcast setup**
-[Continue]
-
-### Long-Tail Keywords
-[Add variations]
-
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 6: [Additional Cluster]
-
-[Follow same format for:]
-- Podcast SEO
-- Podcast Distribution
-- Podcast Equipment
-- Podcast Editing
-- Podcast Formats
-- Private Podcasting
-- Podcast for Business
-- etc.
-
----
-
-## Seasonal/Trending Keywords
-
-### Q1 Keywords (Jan-Mar)
-- New year podcast goals
-- Podcast trends 2025
-- [Add seasonal opportunities]
-
-### Q2 Keywords (Apr-Jun)
-[Add seasonal keywords]
-
-### Q3 Keywords (Jul-Sep)
-[Add seasonal keywords]
-
-### Q4 Keywords (Oct-Dec)
-[Add seasonal keywords]
-
----
-
-## Competitor Keyword Gaps
-
-Track keywords where competitors rank but Castos doesn't:
-
-### Competitor: [Name]
-- **Keyword**: [keyword they rank for]
-  - Their Position: [rank]
-  - Castos Position: [rank or "Not ranking"]
-  - Opportunity: [High/Medium/Low]
-  - Action: [Create content, optimize existing, etc.]
-
-[Add more competitors and gaps]
-
----
-
-## Keyword Opportunity Pipeline
-
-### High Priority (Create Soon)
-Keywords with high volume, achievable difficulty, strong business value:
-
-1. **Keyword**: [keyword]
-   - Volume: [searches]
-   - Difficulty: [score]
-   - Intent: [type]
-   - Why Priority: [strategic reason]
-   - Action: [Create pillar content / cluster article / etc.]
-
-[List 5-10 high-priority keywords]
-
-### Medium Priority (Next Quarter)
-[List keywords to target in next 3 months]
-
-### Low Priority (Future Consideration)
-[List keywords for future content planning]
-
----
-
-## Keyword Tracking & Performance
-
-### Top Performing Keywords
-Keywords where Castos ranks in positions 1-10:
-
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Trend: [↑ Rising / → Stable / ↓ Declining]
-
-[List current winners]
-
-### Keywords to Improve
-Keywords ranking 11-20 (page 2) with opportunity:
-
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Action Needed: [Update content, build links, etc.]
-
-[List improvement opportunities]
-
----
-
-## Keyword Cannibalization Check
-
-Track multiple pages targeting same/similar keywords:
-
-### Potential Cannibalization Issues
-
-**Keyword**: [keyword]
-- Page 1: [URL] - Position [rank]
-- Page 2: [URL] - Position [rank]
-- **Issue**: Both pages competing for same keyword
-- **Solution**: [Consolidate, differentiate, redirect, etc.]
-
-[Monitor and document conflicts]
-
----
-
-## LSI & Semantic Keywords
-
-Common related terms to include across podcasting content:
-
-### Podcast Industry Terms
-- RSS feed
-- podcast directory
-- podcast app
-- podcast player
-- episode
-- show notes
-- audio content
-- podcast network
-[Add more]
-
-### Podcast Creation Terms
-- recording
-- editing
-- post-production
-- audio quality
-- microphone
-- podcast equipment
-[Add more]
-
-### Podcast Growth Terms
-- downloads
-- listeners
-- audience
-- subscribers
-- engagement
-- retention
-[Add more]
-
----
-
-## Usage Guidelines
-
-### When Writing New Content
-1. Check which cluster the topic belongs to
-2. Target the appropriate cluster or long-tail keyword
-3. Reference pillar content in that cluster
-4. Include LSI keywords naturally
-5. Link to related cluster articles
-
-### When Optimizing Existing Content
-1. Verify content targets the right keyword
-2. Check for cannibalization with other pages
-3. Ensure keyword appears in critical locations
-4. Update if search intent has shifted
-5. Add internal links to/from related cluster content
-
-### When Planning Content Calendar
-1. Review keyword opportunity pipeline
-2. Prioritize high-value, achievable keywords
-3. Build out topic clusters systematically
-4. Balance pillar content with cluster articles
-5. Track keyword performance over time
-
----
-
-## Maintenance
-
-**Last Updated**: [Date]
-**Next Review**: [Date - quarterly recommended]
-
-**Regular Updates**:
-- Add new keyword opportunities monthly
-- Track ranking changes monthly
-- Update volumes/difficulty quarterly
-- Review competitor gaps quarterly
-- Refine clusters based on performance
-
----
-
-**Note**: This is a living document. As you conduct keyword research, track performance, and identify new opportunities, update this file to keep your SEO strategy aligned with your content creation.
+# K1 Removals Target Keywords
+
+Source: K1 keyword tracker (stats-board-data.json, 54 keywords). Rankings not yet verified (Google captcha; use Search Console when Dean grants access). Priority 1 = chase first.
+
+## Hard rules (apply to every file in context/)
+- K1 Removals is an established, professional removals company (London, whole UK, international). NEVER write "man and van" (not in titles, copy, alt text or anchors).
+- Services: domestic (house/flat) removals, international removals, commercial/office removals, plus confidential document shredding and customer callbacks. Packing, storage and piano pages exist on the live site as part of a removal; do not invent any other service (no office clearance, IT asset disposal, crating, courier, car shipping, fine art) unless Dean confirms it.
+- Insurance wording: "insured up to £1 million".
+- No prices, ever. Use "Get a free quote" CTAs.
+- Nothing is published without Dean's OK.
+
+
+## Commercial / office
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 1 | office removals london | Commercial | /removals/office/ | live |
+| 1 | commercial removals london | Commercial | /removals/office/ | live |
+| 1 | office removals west london | Commercial | /removals/office/ | live |
+| 2 | office relocation london | Commercial | /removals/office/ | live |
+| 2 | park royal office removals | Commercial | /areas-covered/park-royal-office-removals/ (draft) | draft |
+| 2 | it relocation london | Commercial | /removals/office/it-server-relocation/ (draft) | draft |
+| 3 | school relocation london | Commercial | /removals/office/school-relocations/ (draft) | draft |
+| 3 | retail store relocation london | Commercial | /removals/office/retail-relocations/ (draft) | draft |
+| 3 | clinic relocation london | Commercial | /removals/office/healthcare-clinic-relocations/ (draft) | draft |
+
+## Packing / storage
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 2 | business storage london | Commercial | /removals/storage-services/business-storage/ (draft) | draft |
+| 2 | packing services london | Commercial | /removals/packing-services/ | live |
+| 2 | removals and storage london | Commercial | /removals/storage-services/ | live |
+| 3 | export packing london | Commercial | /removals/packing-services/ | live |
+
+## International
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 1 | international removals london | Commercial | /areas-covered/international-removals/ | live |
+
+## International – Spain
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 1 | removals london to spain | Commercial | /removals-london-to-spain/ | live |
+
+## International – UAE
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 1 | removals london to dubai | Commercial | /removals-london-to-dubai/ | live |
+
+## International – Australia
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 1 | removals london to australia | Commercial | /removals-london-to-australia/ | live |
+
+## International – France
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 1 | removals london to france | Commercial | /removals-london-to-france/ (draft) | draft |
+
+## International – Portugal
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 1 | removals london to portugal | Commercial | /removals-london-to-portugal/ (draft) | draft |
+
+## International – USA
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 1 | removals london to usa | Commercial | /removals-london-to-usa/ (draft) | draft |
+| 3 | moving to the usa from the uk | Informational | /blog/moving-to-the-usa-from-the-uk/ | live |
+
+## International – Canada
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 2 | removals london to canada | Commercial | /removals-london-to-canada/ (draft) | draft |
+
+## International – Germany
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 2 | removals london to germany | Commercial | /removals-london-to-germany/ (draft) | draft |
+
+## International – Europe
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 2 | european removals london | Commercial | /removals-london-to-europe/ (draft) | draft |
+
+## House removals
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 1 | house removals london | Commercial | /removals/house-moves/ | live |
+| 1 | 4 bed house removals london | Commercial | /removals/house-moves/ | live |
+| 1 | removal company london | Commercial | / | live |
+| 2 | uk house removals | Commercial | /uk-house-removals/ | live |
+| 2 | removals london to manchester | Commercial | /blog/moving-from-london-to-manchester/ (draft) | draft |
+| 2 | prime central london removals | Commercial | /removals/prime-central-london/ (draft) | draft |
+| 3 | fine art removals london | Commercial | /removals/fine-art-antiques/ (draft) | draft |
+| 3 | piano removals london | Commercial | /removals/piano/ | live |
+| 3 | flat removals london | Commercial | /removals/flats/ | live |
+
+## London areas
+| P | Keyword | Intent | Target page | Status |
+|---|---|---|---|---|
+| 1 | removals chiswick | Local | /areas-covered/chiswick-removals/ | live |
+| 1 | removals acton | Local | /areas-covered/acton-removals/ | live |
+| 1 | removals brentford | Local | /areas-covered/brentford-removals/ | live |
+| 1 | removals ealing | Local | /areas-covered/removals-ealing/ | live |
+| 1 | removals hammersmith | Local | /areas-covered/hammersmith-removals/ | live |
+| 1 | removals richmond | Local | /areas-covered/richmond-removals/ | live |
+| 1 | removals kensington | Local | /areas-covered/kensington-removals/ | live |
+| 1 | removals chelsea | Local | /areas-covered/chelsea-removals/ (draft) | draft |
+| 2 | removals fulham | Local | /areas-covered/fulham-removals/ | live |
+| 2 | removals shepherds bush | Local | /areas-covered/shepherds-bush-removals/ | live |
+| 2 | removals isleworth | Local | /areas-covered/isleworth-removals/ | live |
+| 2 | removals putney | Local | /areas-covered/putney-removals/ | live |
+| 2 | removals wandsworth | Local | /areas-covered/wandsworth-removals/ | live |
+| 2 | removals notting hill | Local | /areas-covered/notting-hill-removals/ (draft) | draft |
+| 2 | removals kew | Local | /areas-covered/kew-removals/ (draft) | draft |
+| 2 | removals hounslow | Local | /areas-covered/hounslow-removals/ (draft) | draft |
+| 2 | removals twickenham | Local | /areas-covered/twickenham-removals/ (draft) | draft |
+| 3 | removals gunnersbury | Local | /areas-covered/gunnersbury-removals/ | live |
+| 3 | removals white city | Local | /areas-covered/white-city-removals/ | live |
+| 3 | removals barnes | Local | /areas-covered/barnes-removals/ | live |
+| 3 | removals surrey | Local | /areas-covered/surrey-removals/ (draft) | draft |
+
+## Do NOT target
+- man and van [area]: K1 is a professional removals company, not man-and-van; low job value
+- cheap removals london: Price-led searchers; K1 shows no prices and sells quality
+- removals prices / cost calculator: No prices on site; quote after free survey
+- weee recycling / electronics recycling: Service K1 doesn't offer
+- office clearance london: Service K1 doesn't offer
+- data disposal / it asset disposal: Service K1 doesn't offer (document shredding only)
+- custom wooden crating: Service K1 doesn't offer
+- student removals: Low job value; live page kept but not pushed
+- single item delivery / furniture courier: Low value, courier competition
+- self storage units near me: Storage giants dominate; low removals intent
+- removals jobs / driver jobs: Recruitment intent, not customers
+- crate hire: Only if K1 confirms it hires plastic crates; draft folded into packing page
+
+Note: draft pages for school/retail/clinic, business storage and fine art need Dean's confirmation that K1 offers them.

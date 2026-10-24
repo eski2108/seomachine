@@ -1,154 +1,17 @@
-# [YOUR COMPANY] Writing Examples
+# K1 Removals Writing Examples
 
-<!-- INSTRUCTIONS: This file should contain 3-5 exemplary blog posts that demonstrate your brand voice,
-     style, and quality standards. These examples help Claude understand how to write in your voice.
+## Example 1: Chiswick area page (approved draft, 24 Oct 2026)
+> K1 Removals is a professional removal company based in Chiswick. Our office is on Turnham Green Terrace, and we've been moving homes and businesses around West London for over ten years. When you book a Chiswick move with us, the crew already knows your street, the parking rules and how long it really takes to get across the Hogarth Roundabout at 8am.
+>
+> We handle local moves within W4, moves across London, long-distance UK moves and international removals, with a free survey, a tailored fixed quote and full insurance up to £1 million on every job.
 
-     Copy and paste complete articles from your blog that represent your best work.
-     See examples/castos/writing-examples.md for a real-world example with 5 full articles.
+> **Bedford Park.** Red-brick Victorian houses in a conservation area, with narrow hallways, steep staircases and tight turns on the landings. Large wardrobes and sofas often need dismantling or careful angling, so we note them on the survey and bring the right tools.
 
-     Delete these instruction comments when done. -->
+## Example 2: FAQ style
+> **Do I need a parking suspension for a Chiswick move?** On most W4 streets inside a controlled parking zone, yes. Chiswick is in the London Borough of Hounslow, which at the time of writing asks for bay suspension applications at least 10 working days before the move. We can arrange it as part of the move, so book your date early.
 
-This file contains exemplary blog posts from [YOUR COMPANY] that demonstrate the brand voice, style, and quality standards. Use these as reference when writing new content.
+> **How do I get a quote?** Call 0330 103 0041 or request a free survey online. After the survey, in person or by video, you get a tailored fixed quote in writing.
 
-## Instructions for Adding Examples
-
-Add 3-5 complete blog post examples from your blog that represent:
-1. The ideal brand voice and tone
-2. Strong SEO optimization
-3. High-quality, valuable content
-4. Proper structure and formatting
-5. Effective use of examples and data
-
-For each example, include:
-- **URL**: Link to the original post
-- **Title**: Full headline
-- **Primary Keyword**: Target keyword for that article
-- **Word Count**: Approximate length
-- **Publication Date**: When it was published
-- **What Makes It Great**: 2-3 specific reasons this is an exemplary post
-- **Full Content**: The complete article text (at least 1,500+ words)
-
----
-
-## Example 1: [ARTICLE TITLE]
-
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
-
-**What Makes It Great**:
-- [Reason 1: e.g., "Thorough explanation of complex topic with clear examples"]
-- [Reason 2: e.g., "Perfect balance of expertise and accessibility"]
-- [Reason 3: e.g., "Strong internal linking and clear CTAs"]
-
-**Full Content**:
-```
-[PASTE YOUR COMPLETE ARTICLE TEXT HERE]
-
-Include:
-- Full introduction
-- All main sections with subheadings
-- Examples, data, quotes
-- Lists and formatting
-- Conclusion and CTA
-
-This should be at least 1,500+ words to give Claude enough content
-to understand your writing style, voice, and structure.
-```
-
----
-
-## Example 2: [ARTICLE TITLE]
-
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
-
-**What Makes It Great**:
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
-
-**Full Content**:
-```
-[PASTE COMPLETE ARTICLE TEXT HERE]
-```
-
----
-
-## Example 3: [ARTICLE TITLE]
-
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
-
-**What Makes It Great**:
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
-
-**Full Content**:
-```
-[PASTE COMPLETE ARTICLE TEXT HERE]
-```
-
----
-
-## Example 4: [ARTICLE TITLE] (Optional but Recommended)
-
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
-
-**What Makes It Great**:
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
-
-**Full Content**:
-```
-[PASTE COMPLETE ARTICLE TEXT HERE]
-```
-
----
-
-## Example 5: [ARTICLE TITLE] (Optional but Recommended)
-
-**URL**: [https://yoursite.com/article-url/]
-**Primary Keyword**: [target keyword phrase]
-**Word Count**: [~X,XXX words]
-**Publication Date**: [Month Day, Year]
-
-**What Makes It Great**:
-- [Reason 1]
-- [Reason 2]
-- [Reason 3]
-
-**Full Content**:
-```
-[PASTE COMPLETE ARTICLE TEXT HERE]
-```
-
----
-
-## Tips for Selecting Good Examples
-
-1. **Diverse Topics**: Choose articles covering different aspects of your business/industry
-2. **Different Formats**: Include how-to guides, listicles, thought leadership, etc.
-3. **High Performers**: Pick articles that rank well or get good engagement
-4. **Representative**: Choose posts that truly reflect your desired voice and quality
-5. **Recent**: Prefer newer articles that reflect your current brand voice
-
-## Quick Start
-
-If you don't have published blog content yet, you can:
-1. Write 1-2 sample articles in your desired voice
-2. Include competitor articles you admire (clearly labeled)
-3. Add these as you publish new content
-4. Reference industry-standard examples with your voice notes
-
-**Remember**: The more complete and representative your examples, the better Claude will understand and replicate your writing style.
+## Why these work
+Specific streets, real council rules, a real office, insurance stated correctly, no prices, CTA to a free quote.
+Full drafts: Chiswick, Gunnersbury, Isleworth, Kensington, office hub, international hub, areas hub (K1 weekend 24 Oct 2026 pack).
