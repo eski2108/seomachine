@@ -232,7 +232,7 @@ class ContentScrubber:
         """Replace common AI-telltale phrases with natural alternatives."""
         for pattern, replacement in self.AI_PHRASE_REPLACEMENTS:
             content, count = re.subn(pattern, replacement, content, flags=re.MULTILINE)
-            self.stats['ai_phrases_replaced'] += count
+            self.stats['ai_phrases_replaced'] = self.stats.get('ai_phrases_replaced',0) + count
         return content
 
     def _clean_whitespace(self, content: str) -> str:
