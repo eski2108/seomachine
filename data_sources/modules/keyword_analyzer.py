@@ -523,12 +523,12 @@ class KeywordAnalyzer:
         if status == "too_low":
             recommendations.append(
                 f"⚠️ Primary keyword density is too low ({primary_analysis['density']}%). "
-                f"Target is {target_density}%. Add {primary_analysis['keyword']} naturally in more paragraphs."
+                f"Target is {target_density}%. Add {primary_analysis.get('keyword','the primary keyword')} naturally in more paragraphs."
             )
         elif status == "slightly_low":
             recommendations.append(
                 f"ℹ️ Primary keyword density is slightly low ({primary_analysis['density']}%). "
-                f"Consider adding a few more mentions of '{primary_analysis['keyword']}'."
+                f"Consider adding a few more mentions of '{primary_analysis.get('keyword','the primary keyword')}'."
             )
         elif status == "too_high":
             recommendations.append(
